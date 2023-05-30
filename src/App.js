@@ -6,7 +6,7 @@ import Formulario from './componentes/Formulario/Formulario';
 import MiOrg from './componentes/MiOrg/MiOrg';
 import Equipo from "./componentes/Equipo/Equipo";
 import Footer from "./componentes/Footer/Footer";
-import Colaborador from "./componentes/Colaborador/Colaborador";
+//import Colaborador from "./componentes/Colaborador/Colaborador";
 
 function App() {
   const [mostrarFormulario, actualizarMostrar] = useState(true);
